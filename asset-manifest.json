@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/modal-ModalCongrats/static/css/main.608191f7.css",
-    "main.js": "/modal-ModalCongrats/static/js/main.3d9343fd.js",
+    "main.css": "/modal-ModalCongrats/static/css/main.87c8c664.css",
+    "main.js": "/modal-ModalCongrats/static/js/main.de403c0f.js",
     "index.html": "/modal-ModalCongrats/index.html",
-    "main.608191f7.css.map": "/modal-ModalCongrats/static/css/main.608191f7.css.map",
-    "main.3d9343fd.js.map": "/modal-ModalCongrats/static/js/main.3d9343fd.js.map"
+    "main.87c8c664.css.map": "/modal-ModalCongrats/static/css/main.87c8c664.css.map",
+    "main.de403c0f.js.map": "/modal-ModalCongrats/static/js/main.de403c0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.608191f7.css",
-    "static/js/main.3d9343fd.js"
+    "static/css/main.87c8c664.css",
+    "static/js/main.de403c0f.js"
   ]
 }
